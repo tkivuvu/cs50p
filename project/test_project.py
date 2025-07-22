@@ -1,4 +1,4 @@
-from final_project import printDS, printCS, printRS, printRR, printQR
+from project import printDS, printCS, printRS, printRR, printQR
 
 
 def test_printDS():
