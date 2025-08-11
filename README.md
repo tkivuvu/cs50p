@@ -67,4 +67,4 @@ This project is part of Harvard’s CS50P curriculum and is licensed under the [
 
 ## 📫 Contact
 
-If you'd like to connect, feel free to reach out via [GitHub](https://github.com/tkivuvu) or [t.kivuvu@gmail.com / LinkedIn link here].
+If you'd like to connect, feel free to reach out via [GitHub](https://github.com/tkivuvu) / email [t.kivuvu@gmail.com] / [LinkedIn](https://www.linkedin.com/in/thibault-kivuvu-aa5459375/).
